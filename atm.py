@@ -152,13 +152,4 @@ def transfer_money(user):
         transfer_money(user)
 
 
-'''
-    if user["balance"] <= deposit_amount:
-        print "money sent"
-    else:
-        print "Insufficent funds. Please try again."
-        deposit(user)
-
-'''
-
 welcome()
